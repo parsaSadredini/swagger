@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MyApi</name>
+    </assembly>
+    <members>
+        <member name="M:MyApi.Controllers.v1.UsersController.Token(System.String,System.String,System.Threading.CancellationToken)">
+            <summary>
+            This method generate JWT Token
+            </summary>
+            <param name="username">The UserName of User</param>
+            <param name="password">The Password of User</param>
+            <param name="cancellationToken"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

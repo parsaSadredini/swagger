@@ -1,0 +1,25 @@
+C:\Users\Ebrahimi\source\repos\MyApi\Common\bin\Debug\netcoreapp2.1\Common.deps.json
+C:\Users\Ebrahimi\source\repos\MyApi\Common\bin\Debug\netcoreapp2.1\Common.dll
+C:\Users\Ebrahimi\source\repos\MyApi\Common\bin\Debug\netcoreapp2.1\Common.pdb
+C:\Users\Ebrahimi\source\repos\MyApi\Common\obj\Debug\netcoreapp2.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\Ebrahimi\source\repos\MyApi\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfoInputs.cache
+C:\Users\Ebrahimi\source\repos\MyApi\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfo.cs
+C:\Users\Ebrahimi\source\repos\MyApi\Common\obj\Debug\netcoreapp2.1\Common.dll
+C:\Users\Ebrahimi\source\repos\MyApi\Common\obj\Debug\netcoreapp2.1\Common.pdb
+C:\Users\Ebrahimi\source\repos\MyApi\Common\obj\Debug\netcoreapp2.1\Common.csprojAssemblyReference.cache
+C:\Users\Ebrahimi\Desktop\api webinar\Videos\18- Swagger Part2\Project\Common\bin\Debug\netcoreapp2.1\Common.deps.json
+C:\Users\Ebrahimi\Desktop\api webinar\Videos\18- Swagger Part2\Project\Common\bin\Debug\netcoreapp2.1\Common.dll
+C:\Users\Ebrahimi\Desktop\api webinar\Videos\18- Swagger Part2\Project\Common\bin\Debug\netcoreapp2.1\Common.pdb
+C:\Users\Ebrahimi\Desktop\api webinar\Videos\18- Swagger Part2\Project\Common\obj\Debug\netcoreapp2.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\Ebrahimi\Desktop\api webinar\Videos\18- Swagger Part2\Project\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfoInputs.cache
+C:\Users\Ebrahimi\Desktop\api webinar\Videos\18- Swagger Part2\Project\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfo.cs
+C:\Users\Ebrahimi\Desktop\api webinar\Videos\18- Swagger Part2\Project\Common\obj\Debug\netcoreapp2.1\Common.dll
+C:\Users\Ebrahimi\Desktop\api webinar\Videos\18- Swagger Part2\Project\Common\obj\Debug\netcoreapp2.1\Common.pdb
+C:\Users\Ebrahimi\Desktop\api webinar\Videos\17- Swagger Part1\Project\Common\bin\Debug\netcoreapp2.1\Common.deps.json
+C:\Users\Ebrahimi\Desktop\api webinar\Videos\17- Swagger Part1\Project\Common\bin\Debug\netcoreapp2.1\Common.dll
+C:\Users\Ebrahimi\Desktop\api webinar\Videos\17- Swagger Part1\Project\Common\bin\Debug\netcoreapp2.1\Common.pdb
+C:\Users\Ebrahimi\Desktop\api webinar\Videos\17- Swagger Part1\Project\Common\obj\Debug\netcoreapp2.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\Ebrahimi\Desktop\api webinar\Videos\17- Swagger Part1\Project\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfoInputs.cache
+C:\Users\Ebrahimi\Desktop\api webinar\Videos\17- Swagger Part1\Project\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfo.cs
+C:\Users\Ebrahimi\Desktop\api webinar\Videos\17- Swagger Part1\Project\Common\obj\Debug\netcoreapp2.1\Common.dll
+C:\Users\Ebrahimi\Desktop\api webinar\Videos\17- Swagger Part1\Project\Common\obj\Debug\netcoreapp2.1\Common.pdb
